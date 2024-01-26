@@ -20,4 +20,4 @@ else:
     payable_tax = (10000 * 0.1) + (income - 20000) * 0.2
 
 #Display the outcome of the computing the payable income tax
-print(f"The taxable income is {income} and the income tax payable is {round(payable_tax)}.")
+print(f"The taxable income is ${income} and the income tax payable is ${round(payable_tax)}.")
